@@ -8,6 +8,10 @@
   "engines": {
     "vscode": "^1.109.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AxelDlv00/comment-markdown-render"
+  },
   "categories": [
     "Visualization", 
     "Other"
