@@ -2,6 +2,7 @@
   "name": "comment-markdown-render",
   "displayName": "Comment Markdown Render",
   "description": "Render Markdown and LaTeX when hovering comments",
+  "publisher": "naela",
   "icon": "media/icon.png",
   "keywords": ["markdown", "latex", "math", "hover", "comments"],
   "version": "0.0.1",
